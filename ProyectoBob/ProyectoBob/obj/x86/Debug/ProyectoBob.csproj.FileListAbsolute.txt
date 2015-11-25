@@ -1,0 +1,236 @@
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f01.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f02.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f03.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f04.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f05.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f06.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f07.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f08.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus1.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus2.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus3.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus4.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\gameover.jpg
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeDos.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeUno.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeCero.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeTres.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Logo\logo.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotones.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotonesG.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\gameover.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirOFF.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirON.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartOFF.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartON.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\treasure.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\NoTransitable.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\StandState\StandRightP.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Transitable.png
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.exe
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.pdb
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.exe
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.pdb
+C:\Users\USER1\Documents\GitHub\ProyectoFinal\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\GObob.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.exe
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.pdb
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f01.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f02.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f03.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f04.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f05.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f06.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f07.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f08.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus1.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus2.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus3.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus4.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\gameover.jpg
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeDos.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeUno.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeCero.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeTres.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Logo\logo.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotones.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotonesG.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\gameover.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\GObob.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirOFF.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirON.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartOFF.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartON.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\treasure.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\NoTransitable.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\StandState\StandRightP.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Transitable.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.exe
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.pdb
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.csprojResolveAssemblyReference.cache
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f05.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f01.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f02.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f03.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f04.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\NoTransitableCueva.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\TransitableCueva.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f01.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f02.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f03.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f01.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f02.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f03.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f01.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f02.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f03.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f01.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f02.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f03.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f04.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f05.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f01.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f02.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f03.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f04.png
+C:\Users\Lupis\Downloads\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f05.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.exe
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.pdb
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f01.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f02.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f03.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f04.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f05.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f01.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f02.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f03.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f04.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f05.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f05.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f01.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f02.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f03.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f04.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f01.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f02.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f03.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f04.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f05.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f06.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f07.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f08.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus1.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus2.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus3.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus4.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\gameover.jpg
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeDos.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeUno.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeCero.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeTres.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Logo\logo.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotones.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotonesG.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\gameover.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\GObob.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirOFF.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirON.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartOFF.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartON.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\treasure.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\NoTransitable.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\NoTransitableCueva.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f01.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f02.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f03.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f01.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f02.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f03.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f01.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f02.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f03.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\StandState\StandRightP.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Transitable.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\TransitableCueva.png
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.exe
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.pdb
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\USER1\Downloads\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.exe
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.pdb
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f01.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f02.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f03.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f04.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsA\BatA_f05.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f01.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f02.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f03.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f04.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BatsM\BatM_f05.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f05.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f01.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f02.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f03.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Bats\Bat_f04.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f01.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f02.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f03.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f04.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f05.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f06.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f07.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\BobRight\Front_f08.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus1.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus2.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus3.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Cactus\Cactus4.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\gameover.jpg
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeDos.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeUno.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeCero.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Life\LifeTres.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Logo\logo.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Logo\logo2.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotones.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\FondoBotonesG.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\gameover.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\GObob.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirOFF.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\SalirON.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartOFF.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\StartON.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Menu\treasure.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\NoTransitable.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\NoTransitableCueva.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f01.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f02.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesA\SnakeA_f03.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f01.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f02.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\SnakesR\SnakeR_f03.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f01.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f02.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Snakes\Snake_f03.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\StandState\StandRightP.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\Transitable.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Content\TransitableCueva.png
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.exe
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\ProyectoBob.pdb
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\bin\WindowsGL\Debug\NVorbis.dll
+C:\Users\Tanya\Downloads\ProyectoBob-2\ProyectoBob (2)\ProyectoBob\ProyectoBob\ProyectoBob\obj\x86\Debug\ProyectoBob.csprojResolveAssemblyReference.cache
